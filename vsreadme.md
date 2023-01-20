@@ -6,4 +6,4 @@ Click the "Edit Source" button above to make changes.
 
 
 
-summane string written in looker
+summane string written in looker + editted the string directly in git master.
