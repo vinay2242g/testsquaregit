@@ -1,6 +1,6 @@
 connection: "vsds"
 
-# include all the views
+# include all t sdfdsfhe views
 include: "/views/**/*.view"
 
 datagroup: scc_default_datagroup {
